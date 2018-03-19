@@ -34,7 +34,7 @@ http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
 				value="drop-and-create" />
 
 			<!-- Affichage des requêtes SQL -->
-			<property name="hibernate.show_sql" value="true" />
+			<property name="hibernate.show_sql" value="false" />
 			<!-- Paramètres d'accès à la BDD -->
 			<property name="javax.persistence.jdbc.url" value="jdbc:mariadb://localhost:3306/banque" />
 			<property name="javax.persistence.jdbc.user" value="root" />

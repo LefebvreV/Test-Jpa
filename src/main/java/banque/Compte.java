@@ -21,7 +21,7 @@ public abstract class Compte {
 	@ManyToMany (mappedBy="comptes")
 	private List<Client> clients;
 	
-	@OneToMany(mappedBy= "compte")
+	@OneToMany(mappedBy= "compte", cascade=CascadeType.REMOVE)
 	private List<Operation> operations;
 	
 	public Compte(){

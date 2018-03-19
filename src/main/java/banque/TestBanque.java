@@ -9,6 +9,10 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
+import javax.persistence.TypedQuery;
+
+import bibliotheque.Emprunt;
+import bibliotheque.Livre;
 
 public class TestBanque {
 
@@ -58,8 +62,8 @@ public class TestBanque {
 		compteClient1.add(compteDouble);
 		
 		List<Compte> compteClient2 = new ArrayList<Compte>();
-		compteClient1.add(compte21);
-		compteClient1.add(compteDouble);
+		compteClient2.add(compte21);
+		compteClient2.add(compteDouble);
 		
 		client1.setComptes(compteClient1);
 		client2.setComptes(compteClient2);
@@ -91,10 +95,106 @@ public class TestBanque {
 		
 		em.persist(operation1);
 		em.persist(operation2);
-
+		
+		
 		et.commit();
-
 		em.close();
+		
+		/**
+		 * Requete diverse TP7
+		 */
+		EntityManager em3 = entityManagerFactory.createEntityManager();
+		EntityTransaction et3 = em3.getTransaction();
+		et3.begin();
+		TypedQuery<Client> queryClient = em3.createQuery("SELECT c FROM Client c WHERE c.id=:param1", Client.class);
+		queryClient.setParameter("param1", 2);
+		
+		Client client = queryClient.getResultList().get(0);
+		List<Compte> compteList2 = client.getComptes();
+		System.out.println("Affichage des comptes d'un client donné\n");
+		for (Compte c : compteList2)
+			System.out.println(c.getNumero());
+		
+		System.out.println(
+                "****************************************************************************************************\n");
+		System.out.println("Affichage des comptes d'une banque\n");
+        Compte compte = null;
+        TypedQuery<Compte> compteQuery = em3.createQuery(
+                "select c from Compte c INNER JOIN c.clients cli where cli.banque.id=:BanqueID", Compte.class);
+        compteQuery.setParameter("BanqueID", 1);
+        if (compteQuery.getMaxResults() > 1) {
+            List<Compte> comptes = compteQuery.getResultList();
+            for (Compte compte2 : comptes) {
+                System.out.println(compte2.getNumero());
+            }
+        } else {
+            compte = compteQuery.getSingleResult();
+            System.out.println(compte.getNumero());
+        }
+        System.out.println(
+                "****************************************************************************************************\n");
+        System.out.println("Affichage des comptes avec une opération de plus de 1000€\n");
+        TypedQuery<Compte> compteQuery2 = em3.createQuery(
+                "select c from Compte c INNER JOIN c.operations op where op.montant>:montant", Compte.class);
+        compteQuery2.setParameter("montant", 1000.00);
+        
+        if (compteQuery2.getMaxResults() > 1) {
+            for (Compte compte3 : compteQuery2.getResultList()) {
+                System.out.println(compte3.getNumero());
+            }
+        } else {
+            System.out.println(compteQuery2.getSingleResult());
+        }
+        System.out.println(
+                "****************************************************************************************************\n");
+        System.out.println("Réaliser une requête qui recherche tous les comptes qui ont au moins une opération.\n");
+        
+        TypedQuery<Compte> compteQuery3 = em3.createQuery(
+                "select DISTINCT c from Compte c INNER JOIN c.operations op where exists(Select o from Operation o where o.compte=c)", Compte.class);
+        
+        if (compteQuery3.getMaxResults() > 1) {
+            for (Compte compte4 : compteQuery3.getResultList()) {
+                System.out.println(compte4.getNumero());
+            }
+        } else {
+            System.out.println(compteQuery3.getSingleResult());
+        }
+        
+        
+        
+		et3.commit();
+		em3.close();
+		
+		
+		
+		/**
+		 * Suppression du compte 1
+		 */
+		/*EntityManager em2 = entityManagerFactory.createEntityManager();
+		EntityTransaction et2 = em2.getTransaction();
+		et2.begin();
+		List<Virement> virementRemove = new ArrayList<Virement>();
+		TypedQuery<Virement> query1 = em2.createQuery("Select v from Virement v where v.id=1", Virement.class);
+		virementRemove = query1.getResultList();
+		
+		for(Virement v:virementRemove)
+			if( v != null)
+				em2.remove(v);
+		operationCompte1 = null;
+		
+		compteClient1.remove(compte11);
+		client1.setComptes(compteClient1);
+		em2.merge(client1);
+		Compte compteRemove  = em2.find(Compte.class,1);
+		
+		if( compteRemove != null)
+			em2.remove(compteRemove);
+
+		
+		et2.commit();
+		em2.close();*/
+		
+		
 		entityManagerFactory.close();
 	}
 }
