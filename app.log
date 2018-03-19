@@ -1,0 +1,505 @@
+15:43:28.754 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: testJpa
+	...]
+15:43:28.840 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+15:43:28.841 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:43:28.842 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+15:43:28.878 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:43:29.003 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:43:29.006 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/bibliothèque]
+15:43:29.007 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+15:43:29.007 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+15:43:29.010 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:43:29.062 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+15:43:29.696 [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+15:43:29.836 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/bibliothèque]
+15:52:31.064 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: testJpa
+	...]
+15:52:31.158 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+15:52:31.158 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:52:31.158 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+15:52:31.189 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:52:31.314 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:52:31.314 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/bibliothèque]
+15:52:31.314 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+15:52:31.314 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+15:52:31.314 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:52:31.377 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+15:52:31.981 [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+15:52:32.101 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/bibliothèque]
+15:53:22.099 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: testJpa
+	...]
+15:53:22.177 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+15:53:22.177 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:53:22.177 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+15:53:22.208 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:53:22.333 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:53:22.333 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/bibliothèque]
+15:53:22.333 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+15:53:22.333 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+15:53:22.333 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:53:22.396 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+15:53:22.989 [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+15:53:23.114 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/bibliothèque]
+15:54:10.482 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: testJpa
+	...]
+15:54:10.576 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+15:54:10.576 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:54:10.576 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+15:54:10.607 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:54:10.732 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:54:10.732 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/bibliothèque]
+15:54:10.732 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+15:54:10.732 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+15:54:10.732 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:54:10.779 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+15:54:11.373 [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+15:54:11.498 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/bibliothèque]
+10:20:22.926 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+10:20:23.036 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+10:20:23.037 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+10:20:23.039 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+10:20:23.078 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:20:23.213 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:20:23.216 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+10:20:23.216 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+10:20:23.216 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+10:20:23.219 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:20:23.274 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:23:00.315 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+10:23:00.406 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+10:23:00.408 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+10:23:00.409 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+10:23:00.445 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:23:00.572 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:23:00.574 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+10:23:00.575 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+10:23:00.575 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+10:23:00.578 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:23:00.629 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:23:01.294 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table CLIENT drop foreign key FK4wjk2gbv3i4cgcu25h7uqtoj7]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table CLIENT drop foreign key FK4wjk2gbv3i4cgcu25h7uqtoj7]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:11)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.client' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.client' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+10:23:01.295 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table OPERATION drop foreign key FKb7i99v83impd7vo2xgx8og1m2]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table OPERATION drop foreign key FKb7i99v83impd7vo2xgx8og1m2]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:11)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.operation' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.operation' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+10:23:01.297 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table REGISTRE drop foreign key FKj6hgis4jgw5ajfs4k7k2qyyfy]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table REGISTRE drop foreign key FKj6hgis4jgw5ajfs4k7k2qyyfy]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:11)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.registre' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.registre' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+10:23:01.298 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table REGISTRE drop foreign key FK569iddnylth9lyij0wscw0jlm]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table REGISTRE drop foreign key FK569iddnylth9lyij0wscw0jlm]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:11)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.registre' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.registre' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+10:23:04.014 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@a5bd950'
+10:23:04.187 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+10:25:26.530 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+10:25:26.621 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+10:25:26.622 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+10:25:26.624 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+10:25:26.661 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:25:26.807 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:25:26.811 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+10:25:26.811 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+10:25:26.811 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+10:25:26.815 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:25:26.867 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:25:30.858 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+10:25:31.008 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+10:26:33.309 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+10:26:33.390 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+10:26:33.391 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+10:26:33.392 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+10:26:33.431 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:26:33.562 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:26:33.566 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+10:26:33.566 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+10:26:33.566 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+10:26:33.569 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:26:33.620 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:26:37.587 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+10:26:37.803 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+10:34:53.037 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+10:34:53.127 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+10:34:53.128 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+10:34:53.130 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+10:34:53.165 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:34:53.397 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:34:53.400 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+10:34:53.400 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+10:34:53.400 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+10:34:53.403 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:34:53.452 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:34:58.598 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+10:36:56.356 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+10:36:56.441 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+10:36:56.442 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+10:36:56.444 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+10:36:56.477 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:36:56.703 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:36:56.706 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+10:36:56.707 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+10:36:56.707 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+10:36:56.709 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:36:56.757 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:37:01.669 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+10:37:01.883 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+11:04:44.661 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:04:44.768 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:04:44.769 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:04:44.770 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:04:44.806 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:04:44.936 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:04:44.939 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:04:44.939 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:04:44.939 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:04:44.942 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:04:44.993 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:04:50.441 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+11:04:50.704 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+11:12:48.787 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:12:48.875 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:12:48.876 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:12:48.877 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:12:48.913 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:12:49.044 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:12:49.047 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:12:49.047 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:12:49.047 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:12:49.050 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:12:49.100 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:12:55.594 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+11:12:56.096 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+11:18:39.251 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:18:39.334 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:18:39.335 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:18:39.337 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:18:39.373 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:18:39.503 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:18:39.506 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:18:39.507 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:18:39.507 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:18:39.510 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:18:39.561 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:18:44.153 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+11:18:44.599 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+11:26:55.184 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:26:55.273 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:26:55.274 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:26:55.276 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:26:55.312 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:26:55.444 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:26:55.447 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:26:55.447 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:26:55.447 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:26:55.450 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:26:55.499 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:27:00.009 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+11:27:00.558 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+11:27:33.782 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:27:33.875 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:27:33.876 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:27:33.877 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:27:33.913 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:27:34.045 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:27:34.048 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:27:34.048 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:27:34.048 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:27:34.051 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:27:34.103 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:27:39.304 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@4c398c80'
+11:27:39.917 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+11:58:29.790 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:58:29.902 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:58:29.904 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:58:29.905 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:58:29.941 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:58:30.072 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:58:30.074 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:58:30.075 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:58:30.075 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:58:30.078 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:58:30.129 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:58:34.479 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@21baa903'
+11:59:09.501 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+11:59:09.589 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+11:59:09.590 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+11:59:09.591 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+11:59:09.628 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:59:09.760 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:59:09.763 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+11:59:09.763 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+11:59:09.763 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+11:59:09.765 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:59:09.817 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:59:10.634 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table Virement drop foreign key FK38j0bx5xjd7sn9c98dp02ap98]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table Virement drop foreign key FK38j0bx5xjd7sn9c98dp02ap98]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:16)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.virement' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.virement' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+11:59:14.981 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@f667fe'
+11:59:15.939 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+12:10:48.474 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+12:10:48.567 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+12:10:48.568 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+12:10:48.569 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+12:10:48.605 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+12:10:48.739 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:10:48.742 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+12:10:48.742 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+12:10:48.742 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+12:10:48.744 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:10:48.795 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+12:10:49.402 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table AssuranceVie drop foreign key FKpiugna2k2k7s2dbbt6pxhuotq]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table AssuranceVie drop foreign key FKpiugna2k2k7s2dbbt6pxhuotq]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:16)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.assurancevie' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.assurancevie' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+12:10:49.435 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Unable to execute command [alter table LivretA drop foreign key FKeo6jhkyos2mi3xi5qp20il78h]
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Unable to execute command [alter table LivretA drop foreign key FKeo6jhkyos2mi3xi5qp20il78h]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:63)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:370)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:355)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:327)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:229)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:153)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:125)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:111)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:137)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:64)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:458)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:881)
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:58)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:55)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:39)
+	at banque.TestBanque.main(TestBanque.java:16)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'banque.livreta' doesn't exist
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:138)
+	at org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)
+	at org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:264)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:288)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:338)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:51)
+	... 16 common frames omitted
+Caused by: org.mariadb.jdbc.internal.common.QueryException: Table 'banque.livreta' doesn't exist
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.getResult(MySQLProtocol.java:942)
+	at org.mariadb.jdbc.internal.mysql.MySQLProtocol.executeQuery(MySQLProtocol.java:991)
+	at org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:281)
+	... 18 common frames omitted
+12:10:56.167 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@758c83d8'
+12:10:56.727 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
+12:28:54.590 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: banque
+	...]
+12:28:54.688 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final}
+12:28:54.690 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+12:28:54.691 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+12:28:54.728 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+12:28:54.868 [main] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:28:54.870 [main] INFO  org.hibernate.orm.connections - HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/banque]
+12:28:54.871 [main] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {user=root}
+12:28:54.871 [main] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+12:28:54.873 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:28:54.924 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+12:29:03.677 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@2a3c96e3'
+12:29:04.584 [main] INFO  org.hibernate.orm.connections - HHH10001008: Cleaning up connection pool [jdbc:mariadb://localhost:3306/banque]
